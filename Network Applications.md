@@ -229,7 +229,7 @@ How does TCP do this?
 
 Type of network connection between 2 endpoints over an IP network with the three key features. Crucial for app protocols like HTTP. 
 
-## Application Layer
+## Application Layer: HTTP(S), RTP
 
 - HTTP (Hypertext Transfer Protocol, runs atop TCP)
 	- need reliability
